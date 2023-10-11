@@ -1,0 +1,682 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "Pvy2-Xi7SvYGppXUR0d1Ly6hw1U",
+        "id": "UgzfGthtSJVRCmhyLgp4AaABAg",
+        "snippet": {
+            "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+            "videoId": "N4nX_rTwKx4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "oPlJZ4xUaMuwRtitCS8N1JNbGI0",
+                "id": "UgzfGthtSJVRCmhyLgp4AaABAg",
+                "snippet": {
+                    "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+                    "videoId": "N4nX_rTwKx4",
+                    "textDisplay": "This is a nice example that does not require Chat GPT unverified plugins.  <br><br>I wanted to play around with a 😭 and burned a bunch of time looking into all of these vector solutions, only to find out I don&#39;t even have the ability to add them",
+                    "textOriginal": "This is a nice example that does not require Chat GPT unverified plugins.  \n\nI wanted to play around with a 😭 and burned a bunch of time looking into all of these vector solutions, only to find out I don't even have the ability to add them",
+                    "authorDisplayName": "Adam Patterson",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRdcGL2ID7ZOTDlYx-SE-LyMps_fGY8O-UVU4PJa-8=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCwbG1KcPr4Eq1sSK7Xh6KXQ",
+                    "authorChannelId": {
+                        "value": "UCwbG1KcPr4Eq1sSK7Xh6KXQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-09-04T22:52:04Z",
+                    "updatedAt": "2023-09-04T22:52:04Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "PDrhdTFrgGCb9ja-w1VvH9YPuZo",
+        "id": "UgwXy35trMzQg2oclVJ4AaABAg",
+        "snippet": {
+            "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+            "videoId": "N4nX_rTwKx4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "OD7JbNaTUnec72BOrOvcjQ6ognM",
+                "id": "UgwXy35trMzQg2oclVJ4AaABAg",
+                "snippet": {
+                    "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+                    "videoId": "N4nX_rTwKx4",
+                    "textDisplay": "The code you wrote at <a href=\"https://www.youtube.com/watch?v=N4nX_rTwKx4&amp;t=15m09s\">15:09</a> is prone to SQL injection. It would actually be quite fun to see if it was possible to exploit it by combining a propt injection attack with a SQLi attack...",
+                    "textOriginal": "The code you wrote at 15:09 is prone to SQL injection. It would actually be quite fun to see if it was possible to exploit it by combining a propt injection attack with a SQLi attack...",
+                    "authorDisplayName": "Titusz Ban",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSPBkwDeceW-j6SNS6HJPrOEv8yDV6lm4kTo4L1=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCANV4NaVgEsQI-VBiaXFoFQ",
+                    "authorChannelId": {
+                        "value": "UCANV4NaVgEsQI-VBiaXFoFQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-08-17T19:40:23Z",
+                    "updatedAt": "2023-08-17T19:40:23Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "uKHkwv9N62l5D36DD_s8l20-RgQ",
+        "id": "UgwavducOXLDCI1bXtN4AaABAg",
+        "snippet": {
+            "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+            "videoId": "N4nX_rTwKx4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "hBGgoZWqTMvrpn1g5LW4MkamErk",
+                "id": "UgwavducOXLDCI1bXtN4AaABAg",
+                "snippet": {
+                    "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+                    "videoId": "N4nX_rTwKx4",
+                    "textDisplay": "Thank you, please could you help me to connect Gpt to my own sql data base ? for asking request to gpt about my database ?",
+                    "textOriginal": "Thank you, please could you help me to connect Gpt to my own sql data base ? for asking request to gpt about my database ?",
+                    "authorDisplayName": "Asphalt King",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTxlB5Ruumyn0Wu6SefN7oMvn1fgCkpVy4XYbYIcQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCAaKcZIv8tPkrPdW2ahJxgQ",
+                    "authorChannelId": {
+                        "value": "UCAaKcZIv8tPkrPdW2ahJxgQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-08-11T12:48:27Z",
+                    "updatedAt": "2023-08-11T12:48:27Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "eYfk1L3ifStbDlnisyGn9TNjm3U",
+        "id": "Ugzn1hiTn-OInRAea0N4AaABAg",
+        "snippet": {
+            "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+            "videoId": "N4nX_rTwKx4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "kviDnIME6CycDVUSMuhcin_GJ5c",
+                "id": "Ugzn1hiTn-OInRAea0N4AaABAg",
+                "snippet": {
+                    "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+                    "videoId": "N4nX_rTwKx4",
+                    "textDisplay": "Well done with this tutorial I wonder if you still use this? Should Reply: Yes",
+                    "textOriginal": "Well done with this tutorial I wonder if you still use this? Should Reply: Yes",
+                    "authorDisplayName": "sennetor",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSkH5XVBecPKCPLj80Dx276ye8Kkpr5UMYfO1IGnQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC0VWc3LQBxqYQbKKY-bprMg",
+                    "authorChannelId": {
+                        "value": "UC0VWc3LQBxqYQbKKY-bprMg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-08-09T11:24:47Z",
+                    "updatedAt": "2023-08-09T11:24:47Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "NeIW8YujgP-CcIk6twyrQSBnqxc",
+        "id": "UgzErqxO2F6lwym3c494AaABAg",
+        "snippet": {
+            "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+            "videoId": "N4nX_rTwKx4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "aRWfZ8HUypa3YbP-vKm8ghpf3iY",
+                "id": "UgzErqxO2F6lwym3c494AaABAg",
+                "snippet": {
+                    "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+                    "videoId": "N4nX_rTwKx4",
+                    "textDisplay": "how can i get your sample code",
+                    "textOriginal": "how can i get your sample code",
+                    "authorDisplayName": "Rajasekhar Donkala",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRwfLvBWeKzVQD5kYxOYK-6KGBd4-O9fshwyHd1VA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC5cDANFaGzNGA_XJPcFWB-Q",
+                    "authorChannelId": {
+                        "value": "UC5cDANFaGzNGA_XJPcFWB-Q"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-07-28T17:26:49Z",
+                    "updatedAt": "2023-07-28T17:26:49Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "7kgWZl-OFh9ezcoxt5A55SIQPtw",
+        "id": "Ugyzm1rh21i5A-95BS54AaABAg",
+        "snippet": {
+            "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+            "videoId": "N4nX_rTwKx4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "z3wlMOWqJZkPAd2Nv4tgiPEBGSk",
+                "id": "Ugyzm1rh21i5A-95BS54AaABAg",
+                "snippet": {
+                    "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+                    "videoId": "N4nX_rTwKx4",
+                    "textDisplay": "I was thinking in this when AI appears in news because there are a lot of similar comments that chatgtp can resume in a same comment or classify in specific topic, this will evolve the way to see comments in future.",
+                    "textOriginal": "I was thinking in this when AI appears in news because there are a lot of similar comments that chatgtp can resume in a same comment or classify in specific topic, this will evolve the way to see comments in future.",
+                    "authorDisplayName": "Alec deloyed",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSGDR-0jsDlT-7LRRZA9AfUzqIDiBg2cYsgXYkDBg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCO7d1o_E5Vc0xcwvE1RYR6w",
+                    "authorChannelId": {
+                        "value": "UCO7d1o_E5Vc0xcwvE1RYR6w"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-07-24T03:26:06Z",
+                    "updatedAt": "2023-07-24T03:26:06Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "5_lW0fW7roCi6FcgMMD9lR9uGTA",
+        "id": "UgzqxWCjJtYDH18eSP54AaABAg",
+        "snippet": {
+            "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+            "videoId": "N4nX_rTwKx4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "-xs_JsbFnUQLHO9tvydQWY5TD3M",
+                "id": "UgzqxWCjJtYDH18eSP54AaABAg",
+                "snippet": {
+                    "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+                    "videoId": "N4nX_rTwKx4",
+                    "textDisplay": "I only see value in doing this database, if there were millions of comments that needed to be cached and maybe some other analysis done after on the same DB, like querying the DB to figure out which users asked the most questions. Also, while technically the DB was connected to an AI, in essence the AI was only used to process some text and set a boolean value. I think a better title would have been &quot;How to process natural language and save the results to a DB&quot;. Thoughts?",
+                    "textOriginal": "I only see value in doing this database, if there were millions of comments that needed to be cached and maybe some other analysis done after on the same DB, like querying the DB to figure out which users asked the most questions. Also, while technically the DB was connected to an AI, in essence the AI was only used to process some text and set a boolean value. I think a better title would have been \"How to process natural language and save the results to a DB\". Thoughts?",
+                    "authorDisplayName": "Mihai Turdean",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTVJ0u3YKWH2m005F2dRabnwjIQxOZvxzga_kqjpbM=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCh8h6tOl2SlYTqWOk5htaMA",
+                    "authorChannelId": {
+                        "value": "UCh8h6tOl2SlYTqWOk5htaMA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-07-22T03:05:45Z",
+                    "updatedAt": "2023-07-22T03:05:45Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "qzAr1mBD-_a3LyOFyDlxI3Uk_qs",
+        "id": "UgzYIuDUwQuxf-z4FxV4AaABAg",
+        "snippet": {
+            "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+            "videoId": "N4nX_rTwKx4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "LH7IFHB9CaTRK-3Qb3O5QFM7zb4",
+                "id": "UgzYIuDUwQuxf-z4FxV4AaABAg",
+                "snippet": {
+                    "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+                    "videoId": "N4nX_rTwKx4",
+                    "textDisplay": "Do you think whenever we do a request from API on our sensitive data do you think openai takes our data ?",
+                    "textOriginal": "Do you think whenever we do a request from API on our sensitive data do you think openai takes our data ?",
+                    "authorDisplayName": "Srikanth Koltur",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaR84udccp2ZOo3nuW_Q5-53Pj9pZ0dMt4VvOM_vwQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC9HzYpc5Si05gpZMh5CR1Qw",
+                    "authorChannelId": {
+                        "value": "UC9HzYpc5Si05gpZMh5CR1Qw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-07-10T05:07:39Z",
+                    "updatedAt": "2023-07-10T05:07:39Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "knN5KmOZi1OLG1aktsusxAVqxd0",
+        "id": "Ugw1E2Fk_EqyFDxNMYF4AaABAg",
+        "snippet": {
+            "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+            "videoId": "N4nX_rTwKx4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "PbHWSw15_eKHGmEIpK2qF6OmioI",
+                "id": "Ugw1E2Fk_EqyFDxNMYF4AaABAg",
+                "snippet": {
+                    "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+                    "videoId": "N4nX_rTwKx4",
+                    "textDisplay": "have anyone tried MediaX chrome extension that works on chatgpt , bard and even bing AI chat",
+                    "textOriginal": "have anyone tried MediaX chrome extension that works on chatgpt , bard and even bing AI chat",
+                    "authorDisplayName": "Tejnium",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRgDf7iXVL-MRk4Gz8_sqFl5ipOICoul4Pyr7z_=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCPu0KZC6-kTps6h5VLbUqXQ",
+                    "authorChannelId": {
+                        "value": "UCPu0KZC6-kTps6h5VLbUqXQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-06-30T02:30:17Z",
+                    "updatedAt": "2023-06-30T02:30:17Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "6WPSe_19Al2G7rpOgrjK-wn1gmg",
+        "id": "UgzFK6IFT6w-M4nhp2p4AaABAg",
+        "snippet": {
+            "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+            "videoId": "N4nX_rTwKx4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "_w3JLp0fsz0ElXiJUTdUWHxqnrM",
+                "id": "UgzFK6IFT6w-M4nhp2p4AaABAg",
+                "snippet": {
+                    "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+                    "videoId": "N4nX_rTwKx4",
+                    "textDisplay": "When you post your API key on line 4 is there a way that this is not public or are you just deleting/changing it after the video is posted?",
+                    "textOriginal": "When you post your API key on line 4 is there a way that this is not public or are you just deleting/changing it after the video is posted?",
+                    "authorDisplayName": "Peter Sharma",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSBb-65zYKluMaqaAIGKafXJOR4yT1mPF15JVoIXq0=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC7-lpUVwawSRiV14y6FMuaQ",
+                    "authorChannelId": {
+                        "value": "UC7-lpUVwawSRiV14y6FMuaQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-06-21T17:22:13Z",
+                    "updatedAt": "2023-06-21T17:22:13Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "XZ1QvZIQ2kgz-4zLcrSRkBP-ZwM",
+        "id": "UgwPfk5GU9qNwU_b_SR4AaABAg",
+        "snippet": {
+            "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+            "videoId": "N4nX_rTwKx4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "SbGWK9veWgEq9dHH8y1c8_1pSQA",
+                "id": "UgwPfk5GU9qNwU_b_SR4AaABAg",
+                "snippet": {
+                    "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+                    "videoId": "N4nX_rTwKx4",
+                    "textDisplay": "❤",
+                    "textOriginal": "❤",
+                    "authorDisplayName": "Beto Leite - Novo Marketing Digital da IA",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/a0svDoIS1cq5ZVgKf6K5uPRvXOkuiEceqD5TQhGJWSVWlk8X7mhyWkCEs0PH1bsu2fqAKSslJA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCs3SMtZh5D17Yw9TQmeAqZQ",
+                    "authorChannelId": {
+                        "value": "UCs3SMtZh5D17Yw9TQmeAqZQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2023-06-20T02:08:17Z",
+                    "updatedAt": "2023-06-20T02:08:17Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "MCYKYS2suvAmufBt2384_fOEZVE",
+        "id": "UgwiRRQyCsSVmhpaDLl4AaABAg",
+        "snippet": {
+            "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+            "videoId": "N4nX_rTwKx4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "LQgJ2f-TZxrdhkTROUF8B5Uk7a0",
+                "id": "UgwiRRQyCsSVmhpaDLl4AaABAg",
+                "snippet": {
+                    "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+                    "videoId": "N4nX_rTwKx4",
+                    "textDisplay": "Is it possible to get text from the comment? Ex I stuck on step four then we have some column in which it stores four?",
+                    "textOriginal": "Is it possible to get text from the comment? Ex I stuck on step four then we have some column in which it stores four?",
+                    "authorDisplayName": "Dhaval Soni",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSWXw1jgGkQEEiFpaIcRTGM51fWQv7FGpUZvfRj=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCH0FHx6-45UroKrPXegIXtQ",
+                    "authorChannelId": {
+                        "value": "UCH0FHx6-45UroKrPXegIXtQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-06-15T07:25:09Z",
+                    "updatedAt": "2023-06-15T07:25:09Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "C7GSoewTBvmeRAxwJ0NCylewtl8",
+        "id": "UgzDMJOf6oZLovqCk6R4AaABAg",
+        "snippet": {
+            "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+            "videoId": "N4nX_rTwKx4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "PrJmYyB6GAV4vkRYOjJBi_o7A0Y",
+                "id": "UgzDMJOf6oZLovqCk6R4AaABAg",
+                "snippet": {
+                    "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+                    "videoId": "N4nX_rTwKx4",
+                    "textDisplay": "One of the best hands on tutorials on how to practically use GPT. Thanks so much for sharing this, Adrian!",
+                    "textOriginal": "One of the best hands on tutorials on how to practically use GPT. Thanks so much for sharing this, Adrian!",
+                    "authorDisplayName": "Daniel Zaremba",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQpX3FeJGGpEv5dUxNMJA4QLLwqHh3R1bu2xGY-=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCp3tWMhK45_-mvw7dZse-Kg",
+                    "authorChannelId": {
+                        "value": "UCp3tWMhK45_-mvw7dZse-Kg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 4,
+                    "publishedAt": "2023-06-11T09:40:33Z",
+                    "updatedAt": "2023-06-11T09:40:33Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "k_30PRCnur2NNuutuBn_725kjPQ",
+        "id": "UgzExuTpc1FV7YmKACR4AaABAg",
+        "snippet": {
+            "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+            "videoId": "N4nX_rTwKx4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "TFGqGVNRT_ib8Wpxb8IpaK9_zJs",
+                "id": "UgzExuTpc1FV7YmKACR4AaABAg",
+                "snippet": {
+                    "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+                    "videoId": "N4nX_rTwKx4",
+                    "textDisplay": "Like the other video of the creator I just watched: leveraging his (excellent) node.js skills but very few OpenAI API Infos burried somewhere between.",
+                    "textOriginal": "Like the other video of the creator I just watched: leveraging his (excellent) node.js skills but very few OpenAI API Infos burried somewhere between.",
+                    "authorDisplayName": "Michael Fischer",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRbkwyY-SIVpwU0N-Y_lQQVtbvx9swSm2T9gg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC_PI4wf4StM9SzsHBeA_uSQ",
+                    "authorChannelId": {
+                        "value": "UC_PI4wf4StM9SzsHBeA_uSQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-06-10T19:04:07Z",
+                    "updatedAt": "2023-06-10T19:04:07Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "4SCWU6jSlKeDF2PgfRdFW-2cato",
+        "id": "UgxPd3ZcYZFw-1B5j8F4AaABAg",
+        "snippet": {
+            "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+            "videoId": "N4nX_rTwKx4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Y73ETxPwQir_ZNmNvtlZckTcyiU",
+                "id": "UgxPd3ZcYZFw-1B5j8F4AaABAg",
+                "snippet": {
+                    "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+                    "videoId": "N4nX_rTwKx4",
+                    "textDisplay": "is this normally the work of data scientist or data  engineer or neither",
+                    "textOriginal": "is this normally the work of data scientist or data  engineer or neither",
+                    "authorDisplayName": "Mohammed Shaalan",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaROy8ic-RMOf0wWQ5H_MEa1KWP4Z3abM9dmVTgAsSY=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC-Ney95RerakgrCrek-8reA",
+                    "authorChannelId": {
+                        "value": "UC-Ney95RerakgrCrek-8reA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-06-07T12:54:20Z",
+                    "updatedAt": "2023-06-07T12:54:20Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "o2vNMyKpFcap7OsAj2AsJwI6j-I",
+        "id": "Ugwx-XMlJroF9YGJ84N4AaABAg",
+        "snippet": {
+            "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+            "videoId": "N4nX_rTwKx4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "vN80WFKvJ4FuOHP8shm_nbZr4y0",
+                "id": "Ugwx-XMlJroF9YGJ84N4AaABAg",
+                "snippet": {
+                    "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+                    "videoId": "N4nX_rTwKx4",
+                    "textDisplay": "So beautiful to watch this in action.<br>Every time I see use cases like this, I can&#39;t help but think how many people in the non-IT world are clueless about the impact of this technology.<br>Keeps blowing my mind every day.",
+                    "textOriginal": "So beautiful to watch this in action.\nEvery time I see use cases like this, I can't help but think how many people in the non-IT world are clueless about the impact of this technology.\nKeeps blowing my mind every day.",
+                    "authorDisplayName": "It's Me",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQvIzT1AygJUwGtAUjYz74FoQvA1YbvQ47UVe2UBw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCqLcfOiB3_2Kx0KGVBTBLJA",
+                    "authorChannelId": {
+                        "value": "UCqLcfOiB3_2Kx0KGVBTBLJA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 6,
+                    "publishedAt": "2023-06-07T03:01:46Z",
+                    "updatedAt": "2023-06-07T03:02:17Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "95TfSImPTKxlsNPkVq1F-XYyu1g",
+        "id": "Ugx4Sr1Azhlazg5ehAJ4AaABAg",
+        "snippet": {
+            "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+            "videoId": "N4nX_rTwKx4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "RVuwU3kzePtPRmLvc-J6oJ2Rp8E",
+                "id": "Ugx4Sr1Azhlazg5ehAJ4AaABAg",
+                "snippet": {
+                    "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+                    "videoId": "N4nX_rTwKx4",
+                    "textDisplay": "anyone have the Github repo?",
+                    "textOriginal": "anyone have the Github repo?",
+                    "authorDisplayName": "Fahad Kiani",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ZykBTOS_Fc9NFy7T7-1LOnw0Fr-TAEsWiZoCFlbnf5e09Ds51mbEPTyJTuJgx-CkCawJ0Z0M=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCBBGotUyECCYMx0UQtlyiHg",
+                    "authorChannelId": {
+                        "value": "UCBBGotUyECCYMx0UQtlyiHg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-06-06T18:42:11Z",
+                    "updatedAt": "2023-06-06T18:42:11Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "z8-Yoa91g1KtVUQniKbpxqcZ3-A",
+        "id": "UgyDlg358r0_1wnQ8_F4AaABAg",
+        "snippet": {
+            "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+            "videoId": "N4nX_rTwKx4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "XsRi2_7UUsnmR2UWIhXvql6r1GY",
+                "id": "UgyDlg358r0_1wnQ8_F4AaABAg",
+                "snippet": {
+                    "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+                    "videoId": "N4nX_rTwKx4",
+                    "textDisplay": "Is openai api key is needed to train the model?",
+                    "textOriginal": "Is openai api key is needed to train the model?",
+                    "authorDisplayName": "Hamid Raza",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRMXFMulPaI7feUc0XyTL3gMDjQ74ONxufzrcxhXA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCYjhK8cGmfInW1udxr9-DBQ",
+                    "authorChannelId": {
+                        "value": "UCYjhK8cGmfInW1udxr9-DBQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-06-06T05:45:31Z",
+                    "updatedAt": "2023-06-06T05:45:31Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "bbnxgXjTkI_toBIhoG2HgeujMUg",
+        "id": "Ugy3iPkj8RKNRo2i-bJ4AaABAg",
+        "snippet": {
+            "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+            "videoId": "N4nX_rTwKx4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "ihBv6CqdpbnWM0DSEs7uupKaqJ8",
+                "id": "Ugy3iPkj8RKNRo2i-bJ4AaABAg",
+                "snippet": {
+                    "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+                    "videoId": "N4nX_rTwKx4",
+                    "textDisplay": "what if we want to do a brainstorming of a database, i mean giving all the infos in the database to chatgpt and asking it about a request :)",
+                    "textOriginal": "what if we want to do a brainstorming of a database, i mean giving all the infos in the database to chatgpt and asking it about a request :)",
+                    "authorDisplayName": "ayoub radouani",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSplweDflVDFswEbgp-8bcRWks64nl1DsFCqJB3=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCLjr44C53frh6cXfn0GVpCQ",
+                    "authorChannelId": {
+                        "value": "UCLjr44C53frh6cXfn0GVpCQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-06-04T20:53:17Z",
+                    "updatedAt": "2023-06-04T20:53:17Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "YwyyLsjA8PFRI8t5JBbDvDMuSo8",
+        "id": "Ugws6CSX3pjTBX7v2ol4AaABAg",
+        "snippet": {
+            "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+            "videoId": "N4nX_rTwKx4",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "19dh5xo6SJdTrUkUNdH1PfzlRgs",
+                "id": "Ugws6CSX3pjTBX7v2ol4AaABAg",
+                "snippet": {
+                    "channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+                    "videoId": "N4nX_rTwKx4",
+                    "textDisplay": "Let&#39;s say I understand the formula to make agentgpt sentient how can I have it localy on my computer so I can work with it",
+                    "textOriginal": "Let's say I understand the formula to make agentgpt sentient how can I have it localy on my computer so I can work with it",
+                    "authorDisplayName": "IN THE REMEMBRANCE OF ALLAH ",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/3CZJbdQsntPnyd8b0OUiNRGXbhpY7ceh8vgxXo9sTHFFCZYVSwg2HYEZDUyWiHaRbVTK6IygVQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCO2zPWkcukV50ffhb1g7-bQ",
+                    "authorChannelId": {
+                        "value": "UCO2zPWkcukV50ffhb1g7-bQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-06-04T11:21:13Z",
+                    "updatedAt": "2023-06-04T11:21:13Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]

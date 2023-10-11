@@ -1,0 +1,47 @@
+.results {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.video{
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+
+.tables {
+    width: 70%;
+}
+
+table {
+    /* border: 1px solid black; */
+}
+
+td {
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.heading{
+    display: flex;
+    width: 100%;
+}
+.Name_H{
+    width: 20%;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Comments_H{
+    width: 60%;
+}
+.Response_H{
+    width: 20%;
+}
+.Table_Data{
+    display: flex;
+}
+.Name_C{
+    width: 20%;
+
+}
